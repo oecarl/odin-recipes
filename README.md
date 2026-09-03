@@ -9,6 +9,6 @@ This is my first project as a beginner using HTML. This project is from The Odin
 4. Links and images
 
 ### Recipe Credits
-+ Sushi recipe: [text](https://www.fifteenspatulas.com/homemade-sushi/)
-+ Chicken parm recipe: [text](https://www.allrecipes.com/recipe/223042/chicken-parmesan/)
-+ Burger recipe: [text](https://www.allrecipes.com/recipe/25473/the-perfect-basic-burger/)
++ [Sushi recipe](https://www.fifteenspatulas.com/homemade-sushi/)
++ [Chicken parm recipe](https://www.allrecipes.com/recipe/223042/chicken-parmesan/)
++ [Burger recipe](https://www.allrecipes.com/recipe/25473/the-perfect-basic-burger/)
